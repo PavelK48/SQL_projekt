@@ -1,1 +1,3 @@
-SELECT 'hello';
+SELECT 'hello'; 
+
+SECOND test AS test;
